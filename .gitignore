@@ -9,3 +9,8 @@ cover.out
 # ignore IDE folders
 .vscode/
 .idea/
+
+# ignore generated files
+*/bin/**
+package/**
+zz_*
